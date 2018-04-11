@@ -10,4 +10,6 @@ Un script Tampermonkey pour avoir un aperçu de la refonte graphique du forum ma
 
 [Tampermonkey pour Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr)
 
-2. 
+2. Installer le script madincraft.user.js depuis https://github.com/RBAZA/madincraftJS/raw/master/madincraft.user.js
+
+3. Naviguer sur le http://madincraft.fr !
