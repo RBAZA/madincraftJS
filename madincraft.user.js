@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Madincraft
-// @version      0.1
+// @version      0.2
 // @description  Une restylisation du site madincraft.fr basée sur le travail de Nocturn_
 // @author       RBAZA
 // @match        http://madincraft.fr/*
