@@ -25,7 +25,7 @@
     });
     let blockpostTitles = document.querySelectorAll('.blockpost h2 a');
     blockpostTitles.forEach(function(blockpostTitle){
-        blockpostTitle.style.backgroundColor = blockpostColor;
+        blockpostTitle.style.color = blockpostColor;
     });
     //BORDERS
     let borders = document.querySelectorAll('.pun .box');
