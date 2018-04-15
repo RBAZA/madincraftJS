@@ -12,6 +12,7 @@
     //DEFINE COLORS
     let ligthBlue = '#8BB1FE';
     let leftBoxesTextColor = '#ffffff';
+    let blockpostColor = '#ffffff';
 
     //TITLES
     let titles = document.querySelectorAll('.pun h2');
@@ -21,6 +22,10 @@
     let legends = document.querySelectorAll('.pun legend');
     legends.forEach(function(legend){
         legend.style.color = ligthBlue;
+    });
+    let blockpostTitles = document.querySelectorAll('.blockpost h2 a');
+    blockpostTitles.forEach(function(blockpostTitle){
+        blockpostTitle.style.backgroundColor = blockpostColor;
     });
     //BORDERS
     let borders = document.querySelectorAll('.pun .box');
